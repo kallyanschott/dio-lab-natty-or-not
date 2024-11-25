@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo: Batalha de Rap AI: ChatGPT x Gemini 🎥
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo apresenta uma batalha de rap entre duas IAs, o ChatGPT e o Gemini, demonstrando o potencial das IAs generativas para criar conteúdo e gerar entretenimento.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **[ChatGPT](https://chat.openai.com)**: O ChatGPT foi utilizado para gerar as letras de sua parte na batalha de Rap contra o Gemini;
+- **[Gemini](https://gemini.google.com/)**: O Gemini foi utilizado para gerar as letras de sua parte na batalha de Rap contra o ChatGPT;
+- **[Suno](https://www.d-id.com)**: Suno é IA generativa para a criação de músicas, intrumentais ou cantadas. Suno foi utilizado para criar a música do vídeo.
+- **[Specterr](https://specterr.com/)** O Specterr é um aplicativo online para a criação de vídeos musicais. Foi utilizado para gerar os visuais do vídeo e para a apresentação das letras da música.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente foi perguntado ao ChatGPT sobre a estrutura geral de batalhas de rap, seguido de detalhes sobre a batalha de rap entre o ChatGPT e o Gemini. Em seguida foi requisitado ao ChatGPT que gerace os primeiros versos de sua batalha de rap com o Gemini se baseando nas informações geradas por ele anteriormente.
+Foi feita a mesma pergunta sobre a estrutura de batalhas de rap ao Gemini, assim como também foram dados detalhes sobre sua eventual batalha de rap contra o ChatGPT. Foi então inserido os versos gerados pelo ChatGPT e pedido ao Gemini para dar sua resposta.
+A batalha de rap segui dessa maneira até que a letra da música estivesse completa.
+A IA Suno foi então utilizada para gerar a música. Foram dadas instruções sobre o estilho escolhido (rap) e inserida a letra da música.
+O Specterr foi então utilizado para gerar a visualização da música, assim como inserir legendas para a a letra da música.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um vídeo musical divertido e interessante gerado em sua maior parte por IAs generativas.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O VÍDEO AQUI]()
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Este projeto foi importante para demonstrar o potencial das IAs generativas na criação de conteúdo.
