@@ -20,7 +20,7 @@ O Specterr foi então utilizado para gerar a visualização da música, assim co
 O resultado é um vídeo musical divertido e interessante gerado em sua maior parte por IAs generativas.
 
 
-https://github.com/user-attachments/assets/7696ef41-8a3a-49f0-aac1-82fa077231f3
+https://github.com/user-attachments/assets/6ae55228-aeed-43b2-8b89-dead3fee89e1
 
 
 ## 💭 Reflexão
