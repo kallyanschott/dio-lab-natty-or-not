@@ -19,7 +19,9 @@ O Specterr foi então utilizado para gerar a visualização da música, assim co
 ## 🚀 Resultados
 O resultado é um vídeo musical divertido e interessante gerado em sua maior parte por IAs generativas.
 
-[LINK PARA O VÍDEO AQUI]()
+
+https://github.com/user-attachments/assets/7696ef41-8a3a-49f0-aac1-82fa077231f3
+
 
 ## 💭 Reflexão
 Este projeto foi importante para demonstrar o potencial das IAs generativas na criação de conteúdo.
